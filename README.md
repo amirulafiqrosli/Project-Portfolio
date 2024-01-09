@@ -4,7 +4,7 @@ Welcome to my data portfolio! Here, I documented a summary of my data related pr
 
 ***
 
-# Project List
+# Project Lists
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
